@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @killsecurly
-- 👀 I’m interested in ... Coding in Python, Java, JavaScript
+- 👀 I’m interested in ... Coding in Python, Java, JavaScript, HTML, CSS
 - 🌱 I’m currently learning ... Securly / Management Disablers
 - 💞️ I’m looking to collaborate on ... INSECURLY, ONC, and others.
 - 📫 How to reach me ... If there is an issue, make an issue.
